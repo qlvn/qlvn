@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joel and im 18 years old.
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning css, js
+- 📫 You can write me on Instagram @joeeel.1
